@@ -1,81 +1,87 @@
-# Privacy Policy
+# Loopy 서비스 이용약관 (초안)
 
-Loopy is designed to process user data as minimally as possible. Most data created in Loopy is stored locally on the user's device unless the user chooses to export, share, back up, or open external web content.
+시행일: 2026년 7월 23일
 
-## Information We Collect
+본 약관은 Loopy 개발자(이하 “개발자”)가 제공하는 Loopy 애플리케이션 및 관련 기능(이하 “서비스”)의 이용 조건을 정합니다. 이용자는 서비스를 설치하거나 이용함으로써 본 약관과 개인정보 처리방침에 동의합니다.
 
-Loopy does not require an account and does not directly collect personally identifiable information such as your name, email address, phone number, or precise location.
+## 제1조 (서비스의 내용)
 
-Loopy may store user-created or user-selected data on the device, including:
+Loopy는 사용자가 직접 보유하거나 선택한 동영상, 오디오, 자막, 문서 및 웹 콘텐츠를 활용하여 재생, 반복 학습, 단어·문장 저장, 사전·번역 연결, OCR, 학습 기록, 내보내기 및 백업 등을 할 수 있도록 돕는 학습 도구입니다.
 
-- learning files, subtitle files, audio files, video files, file metadata, playback positions, time spots, board data, and learning records;
-- saved words and sentences, dictionary or translation search history, meanings, examples, tags, and memory states;
-- browser bookmarks, browser history, saved tabs, downloads, cookies, cache, and other website data stored by WebKit;
-- shadowing recordings and related recording metadata;
-- app settings and preferences.
+서비스의 일부 기능은 기기 운영체제, WebKit, iCloud, 시스템 번역·OCR 또는 외부 웹사이트와 같은 제3자 서비스에 의존할 수 있습니다.
 
-This data is stored locally by default.
+## 제2조 (App Store 이용 조건)
 
-## Permissions
+App Store를 통해 제공되는 Loopy의 라이선스에는 별도의 사용자 사용권 계약이 제공되지 않는 한 Apple의 표준 최종 사용자 사용권 계약(Standard EULA)이 적용됩니다. 본 약관은 서비스의 구체적인 이용 조건을 추가로 안내하며 Apple의 적용 가능한 이용 조건을 배제하지 않습니다.
 
-Loopy may request access to certain device features for the following purposes:
+## 제3조 (이용자의 책임)
 
-- Microphone: Used to record your voice during shadowing practice.
-- Photo Library Add Access: Used to save images created or selected by the user to the Photos app.
-- Files: Used to open, import, manage, and export learning files, subtitle files, audio files, video files, and backup files.
+1. 이용자는 자신이 불러오거나 재생·저장·변환·내보내는 파일과 콘텐츠를 적법하게 이용할 권한이 있는지 확인해야 합니다.
+2. 이용자는 저작권, 초상권, 개인정보 및 기타 제3자의 권리를 침해하지 않아야 합니다.
+3. 이용자는 중요 자료를 별도로 백업하고, 내보내거나 공유한 파일의 보관 위치와 접근 권한을 직접 관리해야 합니다.
+4. 이용자는 외부 웹사이트와 콘텐츠 제공자가 정한 이용약관 및 정책을 준수해야 합니다.
 
-## Browser Feature
+## 제4조 (금지 행위)
 
-Loopy includes a browser feature that allows users to open web content. Websites visited by the user may collect information, use cookies, store website data, show ads, run trackers, or process user activity according to their own privacy policies. Loopy is not responsible for the data practices of external websites.
+이용자는 다음 행위를 해서는 안 됩니다.
 
-Loopy may store browser bookmarks, browsing history, saved tabs, downloads, cookies, cache, and other website data locally on the device.
+1. 법령 또는 제3자의 권리를 위반하는 콘텐츠를 이용·복제·배포하는 행위
+2. 저작권 보호 또는 접근 제한 기술을 우회하거나 무단 다운로드에 서비스를 이용하는 행위
+3. 서비스의 정상 작동을 방해하거나 보안상 취약점을 악용하는 행위
+4. 관련 법령이 명시적으로 허용하는 범위를 제외하고 서비스를 무단 복제·재배포·변조하거나 역설계하는 행위
+5. 서비스 또는 개발자의 명칭·로고·콘텐츠를 사칭하거나 오인하게 사용하는 행위
 
-Loopy may request website icons, such as favicons, from an external icon service. In that case, the website domain or host may be sent to that service in order to retrieve the icon.
+## 제5조 (사용자 데이터와 백업)
 
-When web media or subtitle features are used, Loopy may request subtitle, caption, media, or related metadata URLs needed to provide playback and learning features.
+1. Loopy에서 생성하거나 불러온 학습 기록, 파일 정보, 단어·문장, 브라우저 기록, 설정 및 녹음은 기본적으로 이용자의 기기에 저장됩니다.
+2. 이용자가 내보내기, 공유 또는 iCloud 백업을 선택하면 해당 데이터가 다른 앱, 파일 저장 위치 또는 이용자의 iCloud 계정으로 전달될 수 있습니다.
+3. 앱 삭제, 기기 분실·고장, 운영체제 오류, 저장 공간 부족, 사용자의 삭제 작업 또는 백업 누락으로 데이터가 손실될 수 있으므로 중요한 자료는 이용자가 별도로 백업해야 합니다.
+4. 개인정보의 처리에 관한 자세한 내용은 [Loopy 개인정보 처리방침](https://loopyapp.github.io/loopy-privacy/)을 따릅니다.
 
-## OCR and Translation Features
+## 제6조 (외부 웹사이트와 제3자 서비스)
 
-Loopy may use iOS system OCR and translation features to recognize or translate text from subtitles, video frames, web page snapshots, or text selected by the user.
+1. Loopy의 브라우저에서 방문하는 웹사이트는 쿠키, 광고, 추적 기술 또는 자체적인 데이터 처리 방식을 사용할 수 있으며 해당 웹사이트의 약관과 개인정보 처리방침이 적용됩니다.
+2. 사전, 번역, OCR, 웹 미디어, 자막, 웹사이트 아이콘, iCloud 및 기타 외부 기능은 제3자 또는 운영체제 제공자의 사정에 따라 변경·중단되거나 이용 가능 지역과 언어가 제한될 수 있습니다.
+3. 개발자는 외부 웹사이트의 콘텐츠, 정확성, 적법성, 보안 또는 데이터 처리 방식을 통제하거나 보증하지 않습니다.
 
-Loopy does not use the camera for this feature unless a future version explicitly adds camera-based functionality and requests the required permission.
+## 제7조 (학습 결과와 정보의 정확성)
 
-## Data Storage, Backup, and Export
+Loopy는 학습을 보조하는 도구입니다. 사전 결과, 번역, OCR, 자막, 자동 분석 및 외부 웹 콘텐츠에는 오류가 있을 수 있으며, 특정한 학습 성과나 정보의 완전성·정확성을 보장하지 않습니다. 중요한 판단이 필요한 경우 이용자는 원문이나 신뢰할 수 있는 자료를 별도로 확인해야 합니다.
 
-Learning data created or imported in Loopy is stored locally on the user's device by default.
+## 제8조 (지식재산권)
 
-If the user chooses to export, share, or back up data, selected data may be written to files, shared with other apps, or stored in iCloud Drive. Backup files may include items such as vocabulary tags, saved words, saved sentences, search history, learning records, browser bookmarks, and browser history.
+Loopy 애플리케이션, 디자인, 로고, 자체 제작 문서 및 소프트웨어에 관한 권리는 개발자 또는 정당한 권리자에게 있습니다. 이용자가 직접 보유한 파일과 작성한 콘텐츠의 권리는 해당 이용자 또는 원 권리자에게 유지됩니다.
 
-Original learning files, board lists, and shadowing recording files may not be included in every backup unless the app specifically provides that option.
+## 제9조 (구매와 환불)
 
-iCloud backups are stored in the user's iCloud account and are governed by Apple's iCloud settings and privacy policy.
+1. Loopy의 앱 구매 또는 향후 제공될 수 있는 인앱 구매의 결제·취소·환불에는 이용자가 구매한 App Store 및 관련 법령의 정책이 적용됩니다.
+2. 향후 자동 갱신 구독을 제공하는 경우 개발자는 구매 전에 가격, 이용 기간, 제공 기능, 자동 갱신 여부 및 해지 방법을 별도로 명확하게 안내합니다.
+3. 현재 별도의 자동 갱신 구독이 제공되지 않는 경우 구독 관련 조항은 적용되지 않습니다.
 
-## Data Deletion
+## 제10조 (서비스의 변경과 중단)
 
-If the user deletes files or data within Loopy, that data is removed from the app's local storage according to the selected delete action.
+개발자는 기능 개선, 보안, 운영체제 변경, 제3자 서비스의 변경 또는 기술적 사유로 서비스의 전부 또는 일부를 변경하거나 중단할 수 있습니다. 이용자에게 중대한 영향을 주는 변경은 가능한 범위에서 앱 업데이트 안내, 앱 내 공지 또는 공개된 문서를 통해 알립니다.
 
-Data that has already been exported, shared with another app, saved to iCloud Drive, or stored by an external website may need to be deleted separately by the user.
+## 제11조 (책임의 제한)
 
-## Third-Party Services
+1. 개발자는 합리적인 범위에서 서비스의 안정적인 제공을 위해 노력합니다.
+2. 개발자의 고의 또는 중대한 과실이 없는 한, 이용자의 기기·파일·설정, 외부 웹사이트, 제3자 서비스, 네트워크 장애 또는 이용자의 백업 누락으로 발생한 손해에 대해 책임이 제한될 수 있습니다.
+3. 본 조는 관련 법령상 배제하거나 제한할 수 없는 소비자의 권리에 영향을 주지 않습니다.
 
-Loopy may use third-party services or platform services for web browsing support, website icons, iCloud backup, OCR, translation, and related app functionality.
+## 제12조 (이용 종료)
 
-These services are governed by their own privacy policies.
+이용자는 언제든지 앱을 삭제하고 사용을 중단할 수 있습니다. 앱에서 삭제되지 않은 내보내기 파일, iCloud 파일 또는 외부 서비스의 데이터는 이용자가 해당 위치나 서비스에서 별도로 삭제해야 합니다.
 
-Google Privacy Policy:
-https://policies.google.com/privacy
+## 제13조 (준거법과 분쟁 해결)
 
-Apple Privacy Policy:
-https://www.apple.com/legal/privacy/
+본 약관은 대한민국 법령을 따릅니다. 서비스와 관련한 분쟁은 당사자 간 협의를 통해 해결하도록 노력하며, 해결되지 않는 경우 관할 법원은 민사소송법 등 관계 법령에 따릅니다.
 
-## Contact
+## 제14조 (약관의 변경)
 
-If you have any questions about this Privacy Policy, please contact us at:
+개발자는 서비스 또는 법령의 변경을 반영하기 위해 본 약관을 개정할 수 있습니다. 이용자에게 불리한 중대한 변경은 적용일 전에 합리적인 방법으로 안내하며, 변경된 약관에는 적용일을 표시합니다.
+
+## 제15조 (문의)
+
+서비스 및 본 약관에 관한 문의:
 
 Email: ktestktestk26@gmail.com
-
-## Changes to This Policy
-
-This Privacy Policy may be updated from time to time to reflect changes in app features, third-party services, or legal requirements.
-
-Last updated: July 21, 2026
