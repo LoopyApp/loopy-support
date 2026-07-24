@@ -1,87 +1,86 @@
-# Loopy 서비스 이용약관 (초안)
+# Loopy Terms of Service (Draft)
 
-시행일: 2026년 7월 23일
+Effective Date: July 23, 2026
 
-본 약관은 Loopy 개발자(이하 “개발자”)가 제공하는 Loopy 애플리케이션 및 관련 기능(이하 “서비스”)의 이용 조건을 정합니다. 이용자는 서비스를 설치하거나 이용함으로써 본 약관과 개인정보 처리방침에 동의합니다.
+These Terms of Service ("Terms") govern your use of the Loopy application and its related features ("Service") provided by the Loopy developer ("Developer", "we", "us", or "our"). By installing or using the Service, you agree to these Terms and our Privacy Policy.
 
-## 제1조 (서비스의 내용)
+## Article 1 (Description of Service)
 
-Loopy는 사용자가 직접 보유하거나 선택한 동영상, 오디오, 자막, 문서 및 웹 콘텐츠를 활용하여 재생, 반복 학습, 단어·문장 저장, 사전·번역 연결, OCR, 학습 기록, 내보내기 및 백업 등을 할 수 있도록 돕는 학습 도구입니다.
+1. Loopy is an auxiliary learning tool that helps users play, repeatedly study, save words/sentences, connect to dictionaries/translations, use OCR, track learning records, export, and back up data using videos, audio, subtitles, documents, and web content that they own or select.
+2. Some features of the Service may rely on third-party services, such as the device's operating system, WebKit, iCloud, system translation/OCR, or external websites.
 
-서비스의 일부 기능은 기기 운영체제, WebKit, iCloud, 시스템 번역·OCR 또는 외부 웹사이트와 같은 제3자 서비스에 의존할 수 있습니다.
+## Article 2 (App Store Terms)
 
-## 제2조 (App Store 이용 조건)
+The license for Loopy provided through the App Store is subject to Apple's Standard End User License Agreement (Standard EULA) unless a separate end-user license agreement is provided. These Terms outline additional conditions for using the Service and do not supersede or exclude any applicable terms and conditions set by Apple.
 
-App Store를 통해 제공되는 Loopy의 라이선스에는 별도의 사용자 사용권 계약이 제공되지 않는 한 Apple의 표준 최종 사용자 사용권 계약(Standard EULA)이 적용됩니다. 본 약관은 서비스의 구체적인 이용 조건을 추가로 안내하며 Apple의 적용 가능한 이용 조건을 배제하지 않습니다.
+## Article 3 (User Responsibilities)
 
-## 제3조 (이용자의 책임)
+1. Users must ensure they have the legal right to use, import, play, save, convert, or export any files and content through the Service.
+2. Users must not infringe upon the copyrights, portrait rights, privacy rights, or any other rights of third parties.
+3. Users must separately back up important data and personally manage the storage locations and access rights of any exported or shared files.
+4. Users must comply with the terms of service and policies set by external websites and content providers.
 
-1. 이용자는 자신이 불러오거나 재생·저장·변환·내보내는 파일과 콘텐츠를 적법하게 이용할 권한이 있는지 확인해야 합니다.
-2. 이용자는 저작권, 초상권, 개인정보 및 기타 제3자의 권리를 침해하지 않아야 합니다.
-3. 이용자는 중요 자료를 별도로 백업하고, 내보내거나 공유한 파일의 보관 위치와 접근 권한을 직접 관리해야 합니다.
-4. 이용자는 외부 웹사이트와 콘텐츠 제공자가 정한 이용약관 및 정책을 준수해야 합니다.
+## Article 4 (Prohibited Acts)
 
-## 제4조 (금지 행위)
+Users shall not engage in the following acts:
 
-이용자는 다음 행위를 해서는 안 됩니다.
+1. Using, copying, or distributing content that violates laws or third-party rights.
+2. Circumventing copyright protection or access restriction technologies, or using the Service for unauthorized downloading.
+3. Interfering with the normal operation of the Service or exploiting security vulnerabilities.
+4. Unauthorized copying, redistributing, modifying, or reverse-engineering the Service, except to the extent expressly permitted by applicable law.
+5. Impersonating or misleadingly using the name, logo, or content of the Service or the Developer.
 
-1. 법령 또는 제3자의 권리를 위반하는 콘텐츠를 이용·복제·배포하는 행위
-2. 저작권 보호 또는 접근 제한 기술을 우회하거나 무단 다운로드에 서비스를 이용하는 행위
-3. 서비스의 정상 작동을 방해하거나 보안상 취약점을 악용하는 행위
-4. 관련 법령이 명시적으로 허용하는 범위를 제외하고 서비스를 무단 복제·재배포·변조하거나 역설계하는 행위
-5. 서비스 또는 개발자의 명칭·로고·콘텐츠를 사칭하거나 오인하게 사용하는 행위
+## Article 5 (User Data and Backup)
 
-## 제5조 (사용자 데이터와 백업)
+1. Learning records, file information, saved words/sentences, browser history, settings, and audio recordings created or imported in Loopy are stored locally on the user's device by default.
+2. If the user chooses to export, share, or use iCloud backup, the relevant data may be transferred to other apps, file storage locations, or the user's iCloud account.
+3. Data may be lost due to app deletion, device loss or failure, operating system errors, insufficient storage space, user deletion, or failure to back up. Users are solely responsible for separately backing up important data.
+4. For more details on the processing of personal information, please refer to the Loopy Privacy Policy (https://loopyapp.github.io/loopy-privacy/).
 
-1. Loopy에서 생성하거나 불러온 학습 기록, 파일 정보, 단어·문장, 브라우저 기록, 설정 및 녹음은 기본적으로 이용자의 기기에 저장됩니다.
-2. 이용자가 내보내기, 공유 또는 iCloud 백업을 선택하면 해당 데이터가 다른 앱, 파일 저장 위치 또는 이용자의 iCloud 계정으로 전달될 수 있습니다.
-3. 앱 삭제, 기기 분실·고장, 운영체제 오류, 저장 공간 부족, 사용자의 삭제 작업 또는 백업 누락으로 데이터가 손실될 수 있으므로 중요한 자료는 이용자가 별도로 백업해야 합니다.
-4. 개인정보의 처리에 관한 자세한 내용은 [Loopy 개인정보 처리방침](https://loopyapp.github.io/loopy-privacy/)을 따릅니다.
+## Article 6 (External Websites and Third-Party Services)
 
-## 제6조 (외부 웹사이트와 제3자 서비스)
+1. Websites visited through Loopy's in-app browser may use cookies, advertisements, tracking technologies, or their own data processing practices, which are subject to their respective terms and privacy policies.
+2. Dictionaries, translations, OCR, web media, subtitles, website icons, iCloud, and other external features may be changed, suspended, or limited in availability by region or language depending on the circumstances of third parties or OS providers.
+3. The Developer does not control, endorse, or guarantee the content, accuracy, legality, security, or data processing practices of external websites.
 
-1. Loopy의 브라우저에서 방문하는 웹사이트는 쿠키, 광고, 추적 기술 또는 자체적인 데이터 처리 방식을 사용할 수 있으며 해당 웹사이트의 약관과 개인정보 처리방침이 적용됩니다.
-2. 사전, 번역, OCR, 웹 미디어, 자막, 웹사이트 아이콘, iCloud 및 기타 외부 기능은 제3자 또는 운영체제 제공자의 사정에 따라 변경·중단되거나 이용 가능 지역과 언어가 제한될 수 있습니다.
-3. 개발자는 외부 웹사이트의 콘텐츠, 정확성, 적법성, 보안 또는 데이터 처리 방식을 통제하거나 보증하지 않습니다.
+## Article 7 (Learning Outcomes and Information Accuracy)
 
-## 제7조 (학습 결과와 정보의 정확성)
+Loopy is intended solely as an auxiliary learning tool. Dictionary results, translations, OCR, subtitles, automatic analysis, and external web content may contain errors. The Developer does not guarantee any specific learning outcomes, nor the completeness or accuracy of the information provided. When critical judgment is required, users should separately verify the original text or consult reliable sources.
 
-Loopy는 학습을 보조하는 도구입니다. 사전 결과, 번역, OCR, 자막, 자동 분석 및 외부 웹 콘텐츠에는 오류가 있을 수 있으며, 특정한 학습 성과나 정보의 완전성·정확성을 보장하지 않습니다. 중요한 판단이 필요한 경우 이용자는 원문이나 신뢰할 수 있는 자료를 별도로 확인해야 합니다.
+## Article 8 (Intellectual Property Rights)
 
-## 제8조 (지식재산권)
+The Developer or legitimate rights holders retain all intellectual property rights to the Loopy application, design, logo, internally produced documents, and software. Rights to the files owned and content created by users remain with the respective user or original rights holder.
 
-Loopy 애플리케이션, 디자인, 로고, 자체 제작 문서 및 소프트웨어에 관한 권리는 개발자 또는 정당한 권리자에게 있습니다. 이용자가 직접 보유한 파일과 작성한 콘텐츠의 권리는 해당 이용자 또는 원 권리자에게 유지됩니다.
+## Article 9 (Purchases and Refunds)
 
-## 제9조 (구매와 환불)
+1. Payments, cancellations, and refunds for purchasing the Loopy app, or any future in-app purchases, are subject to the policies of the App Store where the purchase was made and applicable laws.
+2. If auto-renewing subscriptions are offered in the future, the Developer will clearly provide information on the price, duration, features provided, auto-renewal status, and cancellation methods prior to purchase.
+3. If no auto-renewing subscription is currently provided, the subscription-related provisions shall not apply.
 
-1. Loopy의 앱 구매 또는 향후 제공될 수 있는 인앱 구매의 결제·취소·환불에는 이용자가 구매한 App Store 및 관련 법령의 정책이 적용됩니다.
-2. 향후 자동 갱신 구독을 제공하는 경우 개발자는 구매 전에 가격, 이용 기간, 제공 기능, 자동 갱신 여부 및 해지 방법을 별도로 명확하게 안내합니다.
-3. 현재 별도의 자동 갱신 구독이 제공되지 않는 경우 구독 관련 조항은 적용되지 않습니다.
+## Article 10 (Changes and Suspension of Service)
 
-## 제10조 (서비스의 변경과 중단)
+The Developer may change or suspend all or part of the Service for feature improvements, security updates, OS changes, modifications to third-party services, or technical reasons. Changes that significantly affect users will be communicated through app update notes, in-app notices, or public documents to the extent reasonably possible.
 
-개발자는 기능 개선, 보안, 운영체제 변경, 제3자 서비스의 변경 또는 기술적 사유로 서비스의 전부 또는 일부를 변경하거나 중단할 수 있습니다. 이용자에게 중대한 영향을 주는 변경은 가능한 범위에서 앱 업데이트 안내, 앱 내 공지 또는 공개된 문서를 통해 알립니다.
+## Article 11 (Limitation of Liability)
 
-## 제11조 (책임의 제한)
+1. The Developer strives to provide the Service stably within a commercially reasonable scope.
+2. Unless caused by the Developer's intent or gross negligence, the Developer's liability shall be limited for any damages arising from the user's device, files, settings, external websites, third-party services, network outages, or the user's failure to back up data.
+3. This section does not affect consumer statutory rights that cannot be excluded or limited under applicable law.
 
-1. 개발자는 합리적인 범위에서 서비스의 안정적인 제공을 위해 노력합니다.
-2. 개발자의 고의 또는 중대한 과실이 없는 한, 이용자의 기기·파일·설정, 외부 웹사이트, 제3자 서비스, 네트워크 장애 또는 이용자의 백업 누락으로 발생한 손해에 대해 책임이 제한될 수 있습니다.
-3. 본 조는 관련 법령상 배제하거나 제한할 수 없는 소비자의 권리에 영향을 주지 않습니다.
+## Article 12 (Termination of Use)
 
-## 제12조 (이용 종료)
+Users may terminate their use of the Service at any time by deleting the app. Any exported files, iCloud files, or data in external services that are not automatically removed upon app deletion must be separately deleted by the user from their respective locations or services.
 
-이용자는 언제든지 앱을 삭제하고 사용을 중단할 수 있습니다. 앱에서 삭제되지 않은 내보내기 파일, iCloud 파일 또는 외부 서비스의 데이터는 이용자가 해당 위치나 서비스에서 별도로 삭제해야 합니다.
+## Article 13 (Governing Law and Dispute Resolution)
 
-## 제13조 (준거법과 분쟁 해결)
+These Terms shall be governed by and construed in accordance with the laws of the Republic of Korea. Any disputes relating to the Service shall first be resolved amicably through consultation between the parties. If a dispute cannot be resolved, the competent court shall be determined in accordance with the Civil Procedure Act and other applicable laws of the Republic of Korea.
 
-본 약관은 대한민국 법령을 따릅니다. 서비스와 관련한 분쟁은 당사자 간 협의를 통해 해결하도록 노력하며, 해결되지 않는 경우 관할 법원은 민사소송법 등 관계 법령에 따릅니다.
+## Article 14 (Changes to Terms)
 
-## 제14조 (약관의 변경)
+The Developer reserves the right to revise these Terms to reflect changes in the Service or applicable laws. Any significant changes detrimental to users will be notified in a reasonable manner prior to the effective date, and the revised Terms will clearly indicate the new effective date.
 
-개발자는 서비스 또는 법령의 변경을 반영하기 위해 본 약관을 개정할 수 있습니다. 이용자에게 불리한 중대한 변경은 적용일 전에 합리적인 방법으로 안내하며, 변경된 약관에는 적용일을 표시합니다.
+## Article 15 (Contact Information)
 
-## 제15조 (문의)
-
-서비스 및 본 약관에 관한 문의:
+For any inquiries regarding the Service and these Terms, please contact:
 
 Email: ktestktestk26@gmail.com
