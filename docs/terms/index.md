@@ -1,6 +1,6 @@
 # Loopy Terms of Service
 
-Effective Date: July 30, 2026
+Effective Date: July 31, 2026
 
 These Terms of Service (“Terms”) govern your use of the Loopy application and its related features (“Loopy” or the “Service”).
 
@@ -20,7 +20,7 @@ Depending on the device, operating system, language, region, and selected settin
 - OCR and text recognition;
 - speech transcription and shadowing practice;
 - vocabulary, sentence, learning-history, bookmark, and browser management;
-- file import, export, Wi-Fi transfer, and backup features.
+- file import, export, Wi-Fi transfer, and backup-file features.
 
 Some features may require an internet connection, additional model downloads, supported Apple system services, or access to third-party websites.
 
@@ -140,7 +140,7 @@ Loopy may request access to device features when necessary, including:
 - microphone access for shadowing recordings;
 - local network access for Wi-Fi file transfer;
 - photo library add access for saving images;
-- Files access for importing, managing, exporting, or backing up files.
+- Files access for importing, managing, exporting, or creating backup files.
 
 Permission can be managed through the device’s Settings app. Disabling a permission may prevent the related feature from working.
 
@@ -148,11 +148,11 @@ For more information, please review the Loopy Privacy Policy:
 
 https://loopyapp.github.io/loopy-support/privacy/
 
-## 10. Backup, Export, and Data Loss
+## 10. Backup File Export and Data Loss
 
-If backup, export, sharing, or iCloud Drive features are available, you may choose to copy selected Loopy data outside the app.
+Loopy does not automatically synchronize backup data between devices or upload app data to cloud storage.
 
-Depending on the feature, a backup may include items such as:
+If backup-file export or sharing features are available, you may choose to copy selected Loopy data outside the app. A backup file may include items such as:
 
 - saved words and sentences;
 - vocabulary tags and learning states;
@@ -161,7 +161,7 @@ Depending on the feature, a backup may include items such as:
 - browser bookmarks and history;
 - web playback records.
 
-A backup may not include original video, audio, or subtitle files, board data, shadowing recordings, downloaded models, cookies, cache, or other large or temporary files unless the app explicitly states otherwise.
+A backup file does not include original video, audio, or subtitle files, board data, shadowing recordings, downloaded models, cookies, cache, or other large or temporary files unless the app explicitly states otherwise.
 
 You are responsible for maintaining copies of important files and verifying that exported or backed-up data can be restored.
 
@@ -173,10 +173,9 @@ Loopy does not guarantee that every type of data can be recovered after:
 - storage failure;
 - operating-system updates;
 - interrupted file transfers;
-- iCloud configuration changes;
-- backup corruption.
+- backup-file corruption.
 
-Data exported to another app, stored in iCloud Drive, or submitted to an external website may need to be deleted separately.
+Data exported to another app or storage location, or submitted to an external website, may need to be deleted separately.
 
 ## 11. Purchases, Trials, and Paid Features
 
@@ -232,7 +231,7 @@ To the maximum extent permitted by applicable law, the Developer is not liable f
 
 - use of or inability to use Loopy;
 - loss or corruption of locally stored data;
-- failed backups, exports, or file transfers;
+- failed backup-file exports, imports, or file transfers;
 - inaccurate subtitles, translations, transcriptions, dictionary results, or AI responses;
 - third-party websites, services, subscriptions, or content;
 - unauthorized use of copyrighted or restricted content by the user;
@@ -252,7 +251,7 @@ The Developer may restrict or discontinue access to a feature when reasonably ne
 - respond to misuse of an external service;
 - discontinue an unavailable or unsupported integration.
 
-Deleting Loopy may remove locally stored data. Exported files, iCloud Drive files, and data stored by external websites are not necessarily deleted when the app is removed.
+Deleting Loopy may remove locally stored data. Exported files and data stored by external websites are not necessarily deleted when the app is removed.
 
 ## 17. Governing Law
 
