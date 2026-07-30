@@ -1,8 +1,8 @@
 # Privacy Policy
 
-Last updated: July 30, 2026
+Last updated: July 31, 2026
 
-Loopy is designed to keep user data on the user's device whenever possible. Most data created or imported in Loopy is stored locally unless the user chooses to export, share, back up, or send content to an external website or service.
+Loopy is designed to keep user data on the user's device whenever possible. Most data created or imported in Loopy is stored locally unless the user chooses to export, share, create a backup file, or send content to an external website or service.
 
 This Privacy Policy explains how Loopy handles data. External websites and services opened through Loopy are governed by their own privacy policies.
 
@@ -37,7 +37,7 @@ Loopy may request access to the following device features:
 - **Microphone:** Used only when the user records their voice for shadowing practice.
 - **Local Network:** Used to transfer files from a computer or another device to Loopy over the same Wi-Fi network.
 - **Photo Library Add Access:** Used to save images selected or created by the user to the Photos app. Loopy does not request unrestricted access to the user's photo library for this purpose.
-- **Files and Documents:** Used to open, import, manage, export, or back up files selected by the user.
+- **Files and Documents:** Used to open, import, manage, export, or create backup files selected by the user.
 
 Loopy does not use the camera in the current version.
 
@@ -49,7 +49,7 @@ Some language resources may be downloaded or managed by iOS according to Apple's
 
 Loopy may also download speech-recognition model files from Hugging Face. After the required model has been downloaded, supported speech-recognition and subtitle-generation processing is performed locally on the device. Loopy does not upload the user's audio, video, or recordings to Hugging Face for transcription.
 
-OCR results, generated subtitles, translations, and speech-recognition results are stored locally unless the user exports, shares, backs up, or sends them to an external service.
+OCR results, generated subtitles, translations, and speech-recognition results are stored locally unless the user exports, shares, includes them in a backup file, or sends them to an external service.
 
 ## 5. Browser and External Websites
 
@@ -75,11 +75,11 @@ When web media or subtitle features are used, Loopy may request subtitle, captio
 
 Cookies, cache, login sessions, and other website data may be stored locally by WebKit until the user clears that data, the website removes it, or the app is deleted.
 
-## 6. iCloud Drive Backup, Export, and Sharing
+## 6. Backup File Export and Sharing
 
-Data is stored locally unless the user initiates an export, share, or backup operation.
+Loopy does not automatically upload or synchronize app data to cloud storage.
 
-When the user creates an iCloud backup, the backup file is stored in the user's own iCloud Drive account. A backup may include:
+When the user manually creates a backup file, the user may choose where to save or share that file through the iOS system interface. A backup file may include:
 
 - saved words and sentences;
 - dictionary and translation history;
@@ -87,11 +87,9 @@ When the user creates an iCloud backup, the backup file is stored in the user's 
 - selected learning and web playback records;
 - browser bookmarks and browser history.
 
-The current backup format does not include original video, audio, or subtitle files, learning boards, or shadowing recording files unless Loopy explicitly provides and describes such an option.
+The current backup format does not include original video, audio, or subtitle files, learning boards, shadowing recording files, downloaded models, cookies, or cache.
 
-Files exported or shared by the user may be stored in iCloud Drive, the Files app, the Photos app, or another app or service selected by the user.
-
-Data stored in iCloud is governed by the user's Apple ID settings and Apple's privacy policy.
+Files exported or shared by the user may be stored in the Files app or another app or service selected by the user. Data stored outside Loopy is governed by the settings, terms, and privacy policy of the selected destination.
 
 ## 7. Data Retention and Deletion
 
@@ -100,7 +98,7 @@ Local data remains on the device until the user deletes it, clears the relevant 
 Deleting the app generally removes data stored inside the app's local container. However, the following data may remain and must be deleted separately:
 
 - files exported to the Files or Photos app;
-- backup files stored in iCloud Drive;
+- backup files exported outside Loopy;
 - copies shared with another app or person;
 - data, cookies, account activity, or content stored by external websites and services.
 
@@ -130,7 +128,7 @@ Users should review the privacy policy of any external website or service they c
 
 Loopy is designed to minimize transmission of user data and to keep learning data on the device by default.
 
-However, no method of electronic storage or internet transmission can be guaranteed to be completely secure. Users are responsible for protecting access to their device, Apple ID, external website accounts, exported files, and backup files.
+However, no method of electronic storage or internet transmission can be guaranteed to be completely secure. Users are responsible for protecting access to their device, external website accounts, exported files, and backup files.
 
 ## 10. Changes to This Policy
 
