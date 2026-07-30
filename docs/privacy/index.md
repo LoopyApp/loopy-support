@@ -1,81 +1,145 @@
 # Privacy Policy
 
-Loopy is designed to process user data as minimally as possible. Most data created in Loopy is stored locally on the user's device unless the user chooses to export, share, back up, or open external web content.
+Last updated: July 30, 2026
 
-## Information We Collect
+Loopy is designed to keep user data on the user's device whenever possible. Most data created or imported in Loopy is stored locally unless the user chooses to export, share, back up, or send content to an external website or service.
 
-Loopy does not require an account and does not directly collect personally identifiable information such as your name, email address, phone number, or precise location.
+This Privacy Policy explains how Loopy handles data. External websites and services opened through Loopy are governed by their own privacy policies.
 
-Loopy may store user-created or user-selected data on the device, including:
+## 1. Information Collected by the Developer
 
-- learning files, subtitle files, audio files, video files, file metadata, playback positions, time spots, board data, and learning records;
-- saved words and sentences, dictionary or translation search history, meanings, examples, tags, and memory states;
-- browser bookmarks, browser history, saved tabs, downloads, cookies, cache, and other website data stored by WebKit;
+Loopy does not require account registration.
+
+The developer of Loopy does not directly collect or store personally identifiable information such as your name, email address, phone number, precise location, browsing history, recordings, or learning content.
+
+The current version of Loopy does not use advertising identifiers, cross-app tracking, or developer-operated analytics services. The developer does not sell or rent user data.
+
+When you voluntarily contact the developer by email, the information included in that communication may be used only to respond to your inquiry or provide support.
+
+## 2. Data Stored on the Device
+
+Loopy may store the following data locally on your device:
+
+- imported or user-created video, audio, subtitle, text, and related learning files;
+- file metadata, playback positions, time spots, learning boards, playback records, and other learning activity;
+- saved words and sentences, dictionary and translation history, meanings, examples, tags, notes, and memorization states;
+- browser bookmarks, browsing history, saved tabs, downloads, cookies, cache, and other website data managed by WebKit;
 - shadowing recordings and related recording metadata;
-- app settings and preferences.
+- OCR results, generated subtitles, translations, and speech-recognition results;
+- app settings, preferences, and downloaded speech-recognition model files.
 
-This data is stored locally by default.
+This data remains on the device by default and is not transmitted to the developer.
 
-## Permissions
+## 3. Device Permissions and Access
 
-Loopy may request access to certain device features for the following purposes:
+Loopy may request access to the following device features:
 
-- Microphone: Used to record your voice during shadowing practice.
-- Photo Library Add Access: Used to save images created or selected by the user to the Photos app.
-- Files: Used to open, import, manage, and export learning files, subtitle files, audio files, video files, and backup files.
+- **Microphone:** Used only when the user records their voice for shadowing practice.
+- **Local Network:** Used to transfer files from a computer or another device to Loopy over the same Wi-Fi network.
+- **Photo Library Add Access:** Used to save images selected or created by the user to the Photos app. Loopy does not request unrestricted access to the user's photo library for this purpose.
+- **Files and Documents:** Used to open, import, manage, export, or back up files selected by the user.
 
-## Browser Feature
+Loopy does not use the camera in the current version.
 
-Loopy includes a browser feature that allows users to open web content. Websites visited by the user may collect information, use cookies, store website data, show ads, run trackers, or process user activity according to their own privacy policies. Loopy is not responsible for the data practices of external websites.
+## 4. OCR, Translation, and Speech Recognition
 
-Loopy may store browser bookmarks, browsing history, saved tabs, downloads, cookies, cache, and other website data locally on the device.
+Loopy may use Apple platform features, including Vision and Translation, to recognize or translate text from subtitles, selected video frames, web page snapshots, or text selected by the user.
 
-Loopy may request website icons, such as favicons, from an external icon service. In that case, the website domain or host may be sent to that service in order to retrieve the icon.
+Some language resources may be downloaded or managed by iOS according to Apple's policies and device settings.
 
-When web media or subtitle features are used, Loopy may request subtitle, caption, media, or related metadata URLs needed to provide playback and learning features.
+Loopy may also download speech-recognition model files from Hugging Face. After the required model has been downloaded, supported speech-recognition and subtitle-generation processing is performed locally on the device. Loopy does not upload the user's audio, video, or recordings to Hugging Face for transcription.
 
-## OCR and Translation Features
+OCR results, generated subtitles, translations, and speech-recognition results are stored locally unless the user exports, shares, backs up, or sends them to an external service.
 
-Loopy may use iOS system OCR and translation features to recognize or translate text from subtitles, video frames, web page snapshots, or text selected by the user.
+## 5. Browser and External Websites
 
-Loopy does not use the camera for this feature unless a future version explicitly adds camera-based functionality and requests the required permission.
+Loopy includes a browser and web lookup features that allow users to open external websites, dictionaries, translation services, search engines, video-expression services, AI services, and custom URLs.
 
-## Data Storage, Backup, and Export
+When the user selects an external provider, Loopy may send the selected word, sentence, example, search query, or user-configured prompt to that provider as part of the requested web address or web page interaction.
 
-Learning data created or imported in Loopy is stored locally on the user's device by default.
+Examples may include:
 
-If the user chooses to export, share, or back up data, selected data may be written to files, shared with other apps, or stored in iCloud Drive. Backup files may include items such as vocabulary tags, saved words, saved sentences, search history, learning records, browser bookmarks, and browser history.
+- dictionary and translation websites;
+- search engines and image search services;
+- YouGlish, Yarn, PlayPhrase, and similar services;
+- ChatGPT, Gemini, and other websites selected by the user;
+- custom websites or URLs added by the user.
 
-Original learning files, board lists, and shadowing recording files may not be included in every backup unless the app specifically provides that option.
+These services may receive normal web request information such as the user's IP address, cookies, login state, browser information, search terms, prompts, or other content submitted by the user. They may also display advertisements, use trackers, or store website data according to their own privacy policies.
 
-iCloud backups are stored in the user's iCloud account and are governed by Apple's iCloud settings and privacy policy.
+Loopy does not control and is not responsible for the privacy practices, content, security, or availability of external websites.
 
-## Data Deletion
+Loopy may request website icons through Google's favicon service. When this occurs, the domain or host of the website and ordinary network request information may be sent to Google.
 
-If the user deletes files or data within Loopy, that data is removed from the app's local storage according to the selected delete action.
+When web media or subtitle features are used, Loopy may request subtitle, caption, media, or related metadata URLs required to provide playback and learning features.
 
-Data that has already been exported, shared with another app, saved to iCloud Drive, or stored by an external website may need to be deleted separately by the user.
+Cookies, cache, login sessions, and other website data may be stored locally by WebKit until the user clears that data, the website removes it, or the app is deleted.
 
-## Third-Party Services
+## 6. iCloud Drive Backup, Export, and Sharing
 
-Loopy may use third-party services or platform services for web browsing support, website icons, iCloud backup, OCR, translation, and related app functionality.
+Data is stored locally unless the user initiates an export, share, or backup operation.
 
-These services are governed by their own privacy policies.
+When the user creates an iCloud backup, the backup file is stored in the user's own iCloud Drive account. A backup may include:
 
-Google Privacy Policy:
-https://policies.google.com/privacy
+- saved words and sentences;
+- dictionary and translation history;
+- vocabulary tags and memorization information;
+- selected learning and web playback records;
+- browser bookmarks and browser history.
 
-Apple Privacy Policy:
+The current backup format does not include original video, audio, or subtitle files, learning boards, or shadowing recording files unless Loopy explicitly provides and describes such an option.
+
+Files exported or shared by the user may be stored in iCloud Drive, the Files app, the Photos app, or another app or service selected by the user.
+
+Data stored in iCloud is governed by the user's Apple ID settings and Apple's privacy policy.
+
+## 7. Data Retention and Deletion
+
+Local data remains on the device until the user deletes it, clears the relevant data, or removes the app.
+
+Deleting the app generally removes data stored inside the app's local container. However, the following data may remain and must be deleted separately:
+
+- files exported to the Files or Photos app;
+- backup files stored in iCloud Drive;
+- copies shared with another app or person;
+- data, cookies, account activity, or content stored by external websites and services.
+
+Deleting a record or file in Loopy removes it according to the delete action selected by the user. Some related exported, backed-up, or externally stored copies may not be removed automatically.
+
+## 8. Third-Party Services
+
+Depending on the features selected by the user, Loopy may interact with Apple platform services, Google services, OpenAI services, Hugging Face, and other external websites.
+
+These services operate under their own terms and privacy policies:
+
+Apple Privacy Policy:  
 https://www.apple.com/legal/privacy/
 
-## Contact
+Google Privacy Policy:  
+https://policies.google.com/privacy
 
-If you have any questions about this Privacy Policy, please contact us at:
+OpenAI Privacy Policy:  
+https://openai.com/policies/privacy-policy/
+
+Hugging Face Privacy Policy:  
+https://huggingface.co/privacy
+
+Users should review the privacy policy of any external website or service they choose to use through Loopy.
+
+## 9. Security
+
+Loopy is designed to minimize transmission of user data and to keep learning data on the device by default.
+
+However, no method of electronic storage or internet transmission can be guaranteed to be completely secure. Users are responsible for protecting access to their device, Apple ID, external website accounts, exported files, and backup files.
+
+## 10. Changes to This Policy
+
+This Privacy Policy may be updated when Loopy's features, data practices, third-party services, or legal requirements change.
+
+The latest version will be published at the Privacy Policy URL associated with Loopy.
+
+## 11. Contact
+
+If you have questions about this Privacy Policy, please contact:
 
 Email: ktestktestk26@gmail.com
-
-## Changes to This Policy
-
-This Privacy Policy may be updated from time to time to reflect changes in app features, third-party services, or legal requirements.
-
-Last updated: July 21, 2026
