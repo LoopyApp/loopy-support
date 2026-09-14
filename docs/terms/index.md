@@ -1,6 +1,6 @@
 # Loopy Terms of Service
 
-Effective Date: July 31, 2026
+Effective Date: September 14, 2026
 
 These Terms of Service (“Terms”) govern your use of the Loopy application and its related features (“Loopy” or the “Service”).
 
@@ -10,7 +10,7 @@ By downloading, installing, or using Loopy, you agree to these Terms. If you do 
 
 Loopy is a language-learning media player and browser that helps users study with videos, audio, subtitles, and web content.
 
-Depending on the device, operating system, language, region, and selected settings, Loopy may provide features such as:
+Depending on the device, operating system, language, region, selected settings, and access level, Loopy may provide features such as:
 
 - playback of video and audio files;
 - subtitle display, editing, synchronization, generation, and translation;
@@ -20,11 +20,12 @@ Depending on the device, operating system, language, region, and selected settin
 - OCR and text recognition;
 - speech transcription and shadowing practice;
 - vocabulary, sentence, learning-history, bookmark, and browser management;
-- file import, export, Wi-Fi transfer, and backup-file features.
+- file import, export, and Wi-Fi transfer;
+- backup-file export, iCloud backup, and restoration.
 
-Some features may require an internet connection, additional model downloads, supported Apple system services, or access to third-party websites.
+Some features may require Loopy Pro access, an internet connection, additional model downloads, supported Apple system services, or access to third-party websites.
 
-Loopy is a learning and productivity tool. It does not provide, host, sell, or license third-party media or web content.
+Loopy is a learning and productivity tool. Except for clearly identified bundled sample content provided under its applicable license, Loopy does not provide, host, sell, or license third-party media or web content.
 
 ## 2. Eligibility and Acceptance
 
@@ -44,7 +45,7 @@ These Terms supplement the applicable App Store terms and Apple’s license agre
 
 ## 4. User Content and Content Rights
 
-You retain ownership of files, recordings, words, sentences, notes, subtitles, and other content that you create or import into Loopy.
+You retain any ownership rights you hold in files, recordings, words, sentences, notes, subtitles, and other content that you create or import into Loopy.
 
 You are responsible for ensuring that you have the legal right or permission to:
 
@@ -53,7 +54,7 @@ You are responsible for ensuring that you have the legal right or permission to:
 - create subtitles, translations, recordings, or learning materials derived from third-party content;
 - use content in accordance with the copyright holder’s terms and applicable law.
 
-Loopy does not grant you ownership of or permission to use third-party content.
+Loopy does not grant you ownership of or permission to use third-party content. Bundled sample content remains subject to the license and attribution information provided with that content.
 
 The ability to access content through Loopy does not mean that the content may legally be copied, downloaded, modified, translated, distributed, or used for commercial purposes.
 
@@ -67,7 +68,7 @@ You must not use Loopy to:
 - interfere with websites, servers, networks, or other users;
 - distribute malware or perform abusive or unauthorized automated requests;
 - impersonate another person or misrepresent an affiliation with Loopy;
-- reverse engineer, modify, or redistribute Loopy except where expressly permitted by applicable law.
+- reverse engineer, modify, or redistribute Loopy except where permitted by applicable law or applicable open-source licenses.
 
 Loopy is not designed to circumvent DRM or other technological protection measures.
 
@@ -88,7 +89,7 @@ External websites are operated independently from Loopy. They may:
 
 You are responsible for reviewing and complying with the terms of each website you use.
 
-Loopy does not control, endorse, guarantee, or assume responsibility for external websites, their content, their availability, their security, or their data practices.
+Loopy does not control or guarantee external websites, their content, their availability, their security, or their data practices. Access through Loopy does not imply endorsement of an external website.
 
 ## 7. Dictionary, Translation, Search, and AI Services
 
@@ -112,7 +113,7 @@ Third-party services are not operated by Loopy. Their:
 
 may change at any time.
 
-Loopy does not guarantee that an external service will continue to work with the application. Loopy is not responsible for accounts, subscriptions, purchases, or disputes between the user and an external provider.
+Loopy does not guarantee that an external service will continue to work with the application. Accounts, subscriptions, purchases, and disputes involving an external provider are subject to that provider’s terms.
 
 ## 8. OCR, Translation, Subtitles, and Speech Recognition
 
@@ -133,7 +134,7 @@ Loopy is not intended to provide legal, medical, financial, or other professiona
 
 ## 9. Local Data and Device Permissions
 
-Most data created or imported in Loopy is stored locally on the user’s device by default.
+Most data created or imported in Loopy is stored locally on the user’s device by default. Selected data may also be stored in iCloud through the backup features described in Section 10.
 
 Loopy may request access to device features when necessary, including:
 
@@ -142,17 +143,25 @@ Loopy may request access to device features when necessary, including:
 - photo library add access for saving images;
 - Files access for importing, managing, exporting, or creating backup files.
 
-Permission can be managed through the device’s Settings app. Disabling a permission may prevent the related feature from working.
+Permissions can be managed through the device’s Settings app where supported. Disabling a permission may prevent the related feature from working.
+
+Records used to manage free-trial eligibility and previously activated trials may be retained in secure device storage after the application is deleted. These records help prevent a previously used trial from restarting after reinstallation.
 
 For more information, please review the Loopy Privacy Policy:
 
 https://loopyapp.github.io/loopy-support/privacy/
 
-## 10. Backup File Export and Data Loss
+## 10. Backups, iCloud, and Data Loss
 
-Loopy does not automatically synchronize backup data between devices or upload app data to cloud storage.
+Loopy supports backup-file export and iCloud backup and restoration for selected app data.
 
-If backup-file export or sharing features are available, you may choose to copy selected Loopy data outside the app. A backup file may include items such as:
+When iCloud is available, Loopy may upload supported backup data to the iCloud account associated with your device. Automatic backup is enabled by default and can be turned off in Settings → Data Management → iCloud Backup. You can also create and restore backups manually.
+
+Automatic backups depend on factors such as iCloud availability, account settings, available storage, network connectivity, and background execution permitted by the operating system. A backup may not occur immediately after every change.
+
+iCloud backups are saved restore points. They do not continuously synchronize all app data or media files between devices.
+
+Depending on the backup method and supported features, backups may include items such as:
 
 - saved words and sentences;
 - vocabulary tags and learning states;
@@ -161,7 +170,7 @@ If backup-file export or sharing features are available, you may choose to copy 
 - browser bookmarks and history;
 - web playback records.
 
-A backup file does not include original video, audio, or subtitle files, board data, shadowing recordings, downloaded models, cookies, cache, or other large or temporary files unless the app explicitly states otherwise.
+Backups do not include original video, audio, or subtitle files, board data, shadowing recordings, downloaded models, cookies, cache, or other large or temporary files unless the app explicitly states otherwise.
 
 You are responsible for maintaining copies of important files and verifying that exported or backed-up data can be restored.
 
@@ -173,21 +182,26 @@ Loopy does not guarantee that every type of data can be recovered after:
 - storage failure;
 - operating-system updates;
 - interrupted file transfers;
+- failed or incomplete cloud uploads;
 - backup-file corruption.
 
-Data exported to another app or storage location, or submitted to an external website, may need to be deleted separately.
+Deleting Loopy does not necessarily delete existing iCloud backups, exported files, or data stored by external websites. Such data may need to be deleted separately.
 
-## 11. Purchases, Trials, and Paid Features
+## 11. Free Features, Pro Purchases, and Trials
 
-Loopy may offer paid downloads, in-app purchases, trial access, subscriptions, or one-time feature unlocks.
+### Free Access
 
-If a paid product is offered, its price, duration, included features, renewal terms, and any applicable trial conditions will be displayed through the App Store or within the application before purchase.
+Loopy provides basic playback and selected features for free. Other features require an active trial or Loopy Pro. Selecting a restricted feature may display the Pro purchase screen.
 
-Purchases are processed by Apple and associated with the user’s Apple Account. Payment, cancellation, restoration, billing, and refund requests are governed by Apple’s applicable terms and policies.
+### Loopy Pro
 
-A free trial will convert to a paid product only when this is clearly disclosed and authorized through the App Store purchase process.
+Loopy Pro is a one-time purchase with no subscription or recurring payments. The price is displayed before purchase.
 
-Loopy does not directly receive or store the user’s full payment-card information.
+Pro unlocks Loopy’s tools, not third-party content or subscriptions.
+
+### 7-Day Free Trials
+
+Loopy may offer 7-day free trials. Trial availability and conditions are displayed in the app.
 
 ## 12. Service Changes and Compatibility
 
@@ -207,9 +221,11 @@ Where reasonably possible, significant changes affecting paid features will be h
 
 Loopy’s software, interface, design, branding, icons, documentation, and original content are owned by the Developer or its licensors and are protected by applicable intellectual-property laws.
 
-These Terms grant you a limited, personal, non-exclusive, non-transferable, and revocable right to use Loopy for its intended purpose.
+Subject to the applicable App Store license and these Terms, you receive a limited, personal, non-exclusive, and non-transferable right to use Loopy for its intended purpose.
 
 These Terms do not transfer ownership of Loopy or any third-party content to you.
+
+Third-party and open-source components remain subject to their applicable licenses.
 
 ## 14. Disclaimer of Warranties
 
@@ -231,7 +247,7 @@ To the maximum extent permitted by applicable law, the Developer is not liable f
 
 - use of or inability to use Loopy;
 - loss or corruption of locally stored data;
-- failed backup-file exports, imports, or file transfers;
+- failed backups, restorations, exports, imports, or file transfers;
 - inaccurate subtitles, translations, transcriptions, dictionary results, or AI responses;
 - third-party websites, services, subscriptions, or content;
 - unauthorized use of copyrighted or restricted content by the user;
@@ -251,7 +267,7 @@ The Developer may restrict or discontinue access to a feature when reasonably ne
 - respond to misuse of an external service;
 - discontinue an unavailable or unsupported integration.
 
-Deleting Loopy may remove locally stored data. Exported files and data stored by external websites are not necessarily deleted when the app is removed.
+Deleting Loopy may remove locally stored data and unused local trial offers. Existing iCloud backups, exported files, secure trial-usage records, and data stored by external websites are not necessarily deleted when the app is removed.
 
 ## 17. Governing Law
 
