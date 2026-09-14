@@ -203,6 +203,8 @@ Pro unlocks Loopy’s tools, not third-party content or subscriptions.
 
 Loopy may offer 7-day free trials. Trial availability and conditions are displayed in the app.
 
+Free trials do not result in automatic charges. After a trial ends, basic free features remain available.
+
 ## 12. Service Changes and Compatibility
 
 Loopy may be updated to:
