@@ -187,23 +187,47 @@ Loopy does not guarantee that every type of data can be recovered after:
 
 Deleting Loopy does not necessarily delete existing iCloud backups, exported files, or data stored by external websites. Such data may need to be deleted separately.
 
-## 11. Free Features, Pro Purchases, and Trials
+## 11. Free Features, Pro Purchases, Subscriptions, and Offers
 
 ### Free Access
 
-Loopy provides basic playback and selected features for free. Other features require an active trial or Loopy Pro. Selecting a restricted feature may display the Pro purchase screen.
+Loopy provides basic playback and selected features for free. Other features require active Loopy Pro access. Selecting a restricted feature may display the Pro purchase screen.
 
-### Loopy Pro
+Pro access unlocks Loopy’s tools, not third-party content or subscriptions.
 
-Loopy Pro is a one-time purchase with no subscription or recurring payments. The price is displayed before purchase.
+### Monthly Subscription
 
-Pro unlocks Loopy’s tools, not third-party content or subscriptions.
+Loopy Pro is available through an automatically renewing monthly subscription. The price and subscription period are displayed before purchase.
+
+Payment is charged to your Apple Account upon purchase confirmation. The subscription automatically renews unless canceled at least 24 hours before the end of the current period. Renewal charges may occur within 24 hours before the current period ends.
+
+You can manage or cancel your subscription through your Apple Account subscription settings. Canceling automatic renewal generally allows access to continue until the current paid period ends. Deleting Loopy does not cancel your subscription.
+
+### Lifetime Access
+
+Loopy Pro lifetime access is a separate one-time purchase with no recurring payments. The price is displayed before purchase.
+
+Purchasing lifetime access does not automatically cancel or refund an existing monthly subscription. You must cancel that subscription separately through your Apple Account subscription settings.
 
 ### 7-Day Free Trials
 
-Loopy may offer 7-day free trials. Trial availability and conditions are displayed in the app.
+Loopy may offer 7-day free trials. Availability and eligibility conditions are displayed in the app.
 
-Free trials do not result in automatic charges. After a trial ends, basic free features remain available.
+These standalone trials do not automatically renew or convert into paid purchases. After trial access ends, basic free features remain available.
+
+### Promotional Offer Codes
+
+Loopy may offer promotional codes providing one month of free Pro access through the monthly subscription product.
+
+For offers explicitly identified as non-renewing, access ends after the free period without automatic paid renewal. This setting also applies when an eligible existing subscriber redeems the offer.
+
+Eligibility, redemption limits, and the start and end of the offer period are determined by Apple and the terms displayed during redemption.
+
+### Purchase Restoration and Refunds
+
+Eligible purchases can be restored using the Apple Account used for the purchase. Restoring a purchase does not restart an expired trial, promotional period, or subscription.
+
+Refund requests are handled by Apple under its policies and applicable law. Canceling a subscription does not itself request a refund. Nothing in these Terms limits mandatory consumer rights.
 
 ## 12. Service Changes and Compatibility
 
