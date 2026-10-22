@@ -1,6 +1,6 @@
 # Loopy Terms of Service
 
-Effective Date: September 14, 2026
+Effective Date: October 23, 2026
 
 These Terms of Service (“Terms”) govern your use of the Loopy application and its related features (“Loopy” or the “Service”).
 
