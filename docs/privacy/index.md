@@ -1,6 +1,6 @@
 # Privacy Policy
 
-Last updated: September 14, 2026
+Last updated: October 23, 2026
 
 Loopy is designed to keep user data on the user’s device whenever possible. Most data created or imported in Loopy is stored locally. Selected data may also be backed up to iCloud, exported, shared, or sent to external websites and services as described below.
 
@@ -27,11 +27,13 @@ Loopy may store the following data locally on your device:
 - shadowing recordings and related recording metadata;
 - OCR results, generated subtitles, translations, speech-recognition results, and waveform-analysis data;
 - app settings, preferences, and downloaded model files;
-- purchase-access status, trial eligibility, and trial-use records.
+- purchase and subscription access status, trial eligibility, trial-use records, and promotional offer status.
 
-Loopy uses purchase and original app acquisition information provided by Apple’s StoreKit to verify access and trial eligibility. Trial-use records may be stored in secure device storage to prevent repeated use of a previously activated trial.
+Loopy uses information provided by Apple’s StoreKit to verify Pro access, restore purchases, and determine trial and promotional eligibility. This information may include product and transaction identifiers, purchase and expiration dates, subscription renewal status, offer-code information, refund or revocation status, and original app acquisition information.
 
-App Store payments are handled by Apple. Loopy does not directly receive or store full payment-card information.
+Access status may be maintained on your device. Trial-use records may be stored in secure device storage to prevent repeated use of a previously activated trial.
+
+App Store payments, subscription billing, and offer-code redemption are handled by Apple. Loopy does not directly receive or store full payment-card information. These purchase checks do not send your learning content or imported files to the developer.
 
 ## 3. Device Permissions and Access
 
